@@ -6,8 +6,8 @@ const appConfig = require('../app.config.js')
 
 // Set up twilio authentication
 const twilio = require('twilio')
-const accountSid = 'AC56bf7a7c66cfb5d7124187a10dc2e5fa'; // Your Account SID from www.twilio.com/console
-const authToken = '3ad1274258e6427a554260916e99902c'; // Your Auth Token from www.twilio.com/console
+const accountSid = 'REDACTED'; // Your Account SID from www.twilio.com/console
+const authToken = 'REDACTED'; // Your Auth Token from www.twilio.com/console
 const client = new twilio(accountSid, authToken);
 
 // Set up firebase authentication
