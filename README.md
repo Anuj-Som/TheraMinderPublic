@@ -17,7 +17,7 @@ To help patients consistently do their exercises, the physical therapist can sub
 The team created a ReactApp that stores patient routine information in FireBase. We also integrated our app with Twilio to allow patients to receive messages via text. 
 
 ## Challenges we ran into
-
+Getting local node.js dependencies to work properly on a hosted cloud server (gcloud, heroku). 
 
 ## Accomplishments that we're proud of
 1. Full-stack development in the span of ~20 hours
