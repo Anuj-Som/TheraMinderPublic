@@ -18,11 +18,14 @@ The team created a ReactApp that stores patient routine information in FireBase.
 
 ## Challenges we ran into
 
+
 ## Accomplishments that we're proud of
+1. Full-stack development in the span of ~20 hours
+2. Use of React.js to pull from Google Cloud Firebase API and Twilio API
+3. Managing information flow from phone, computer web-interface applications, and web server to manage and handle data
 
 ## What we learned
-
-The team learned how to implement Twilio, set up Firebase with a React App. 
+The team learned how to implement Twilio API for easy SMS messaging implementaiton, as well as setting up Google Cloud Firebase API with a React.js App. This project also allowed us to refine git workflow for collaborative projects, and make use of the extensive documentation behind APIs to achieve an end-goal user interface. 
 
 ## What's next for TheraMinder
 
