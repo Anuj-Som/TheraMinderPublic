@@ -1,0 +1,82 @@
+@import "fonts";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #e3d4ff;
+}
+
+.home {
+  font-weight: 300;
+  color: #fff;
+  background: #000;
+  text-align: center;
+  display: block;
+  width: 800px;
+  margin: 50px auto;
+  padding: 20px 20px;
+  border-radius: 5px;
+  letter-spacing: 0.05em;
+  word-wrap: break-word;
+}
+
+.therapistScreenTitle {
+  color: #5e0a7d;
+}
+
+.exerciseTile {
+  margin-bottom: 50px;
+}
+
+.instructions {
+  margin-top: 20px;
+}
+
+.msg {
+  color: #fa73b4;
+  margin-bottom: 50px;
+}
+
+.therapistScreenContainer {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+.name {
+  color: white;
+}
+
+.therapistScreenMain {
+  padding: 1000;
+}
+
+.therapistScreenCardContainer {
+  padding: 20px;
+  padding-bottom: 20px;
+}
+
+.therapstScreenSubmit {
+  margin-top: 50px;
+}
+
+/* For Mobile */
+@media screen and (max-width: 540px) {
+  .therapistScreenContainer {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+  }
+
+  .therapistScreenCardContainer {
+    padding: 0px;
+    padding-bottom: 20px;
+  }
+
+  .home {
+    width: 100%;
+    padding: 20px 20px;
+  }
+}
