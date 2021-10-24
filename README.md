@@ -27,3 +27,7 @@ The team learned how to implement Twilio, set up Firebase with a React App.
 ## What's next for TheraMinder
 
 Currently, the notifications from TheraMinder are only sent when the web form is first submitted. A timer to send out reminders daily will need to implemented. Additionally, a feature will be added in which patients can indicate whether they have completed their routine. Additional reminders will be sent if patients do not complete their exercises if they do not complete their exercises within a few hours after receiving a reminder. 
+
+You can access the Hackathon DevPost here:
+
+https://devpost.com/software/theraminder
